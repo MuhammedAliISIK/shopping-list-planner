@@ -1,6 +1,6 @@
 /*
-	Muhammed Ali Iþýk
-	1306190003
+	Muhammed Ali IÅŸÄ±k
+	github.com/MuhammedAliISIK/
 */
 #include <iostream>
 #include <string>
