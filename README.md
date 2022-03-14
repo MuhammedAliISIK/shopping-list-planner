@@ -1,6 +1,6 @@
 # Shopping List Planner
 ## Description:
-In this project a Shopping List Planner application will be created. In this application user can insert, edit, or delete shopping lists. The Shopping List Planner have these attributes:
+In this project a Shopping List Planner application is created. In this application user can insert, edit, or delete shopping lists. The Shopping List Planner have these attributes:
 
   •	User can enter a series of products in a shopping list
 
